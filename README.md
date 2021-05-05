@@ -12,4 +12,4 @@ Python - Python 3.9.1
 ### Startup Procedure
   * Clone the repository
   * Open the directory in your terminal of choice
-  * Run `pip3 install --requirements.txt`
+  * Run `python degrees.py large'
