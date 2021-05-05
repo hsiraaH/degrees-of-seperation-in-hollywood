@@ -6,6 +6,10 @@ For example, if I wanted to find out the Degrees of seperation between Emma Mack
 
 ## How to run it in your system
 
-# Requirements
+### Requirements
 Python - Python 3.9.1
 
+### Startup Procedure
+  * Clone the repository
+  * Open the directory in your terminal of choice
+  * Run `pip3 install --requirements.txt`
